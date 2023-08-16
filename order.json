@@ -1,0 +1,16 @@
+[
+    {
+        "nama_makanan": "ikan",
+        "harga": "12000",
+        "satuan": "satu",
+        "nama": "Saputra Bahrul Ilmi ",
+        "qty": "3"
+    },
+    {
+        "nama_makanan": "ayam",
+        "harga": "12099",
+        "satuan": "satu",
+        "nama": "putra",
+        "qty": "2"
+    }
+]

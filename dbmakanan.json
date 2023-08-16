@@ -1,0 +1,22 @@
+[
+    {
+        "nama_makanan": "ayam",
+        "harga": "12099",
+        "satuan": "satu"
+    },
+    {
+        "nama_makanan": "pitik",
+        "harga": "12999",
+        "satuan": "satu"
+    },
+    {
+        "nama_makanan": "ikan",
+        "harga": "12000",
+        "satuan": "satu"
+    },
+    {
+        "nama_makanan": "lele",
+        "harga": "12000",
+        "satuan": "satuan"
+    }
+]
